@@ -1,3 +1,4 @@
+PROJECT RAPiD!
 sudo npm install -g node-modules  
 npm install express  
 npm install pg  
@@ -26,3 +27,5 @@ In case you get an error:  DbDriver "config": /var/cache/debconf/config.dat is l
  CREATE database restaurant;  
   
  The server will be live at: http://localhost:3000/  
+
+Project Collaborators: Rajat, Anish, Devansh, Parth
