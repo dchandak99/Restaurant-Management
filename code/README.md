@@ -1,6 +1,6 @@
-## Implementation
+# Implementation
 
-### Prerequisites:  
+## Prerequisites:  
 - sudo npm install -g node-modules  
 - npm install express  
 - npm install pg  
@@ -18,14 +18,14 @@ If you don't have postgres installed:
 SET UP the database.js file, Create a database called "restaurant"  
 Run node app.js on the terminal  
 
-### App Link:  
+## App Link:  
 - The server will be live at: http://localhost:3000/  
 
-### Implementation Details:  
+## Implementation Details:  
 - We have used the MVC architecture since it simplifies the system by separating into models (for querying the DB), controllers (middleware) and views (frontend).
 - 
 
-### Error Handling:
+## Error Handling:
 In case you get an error:  DbDriver "config": /var/cache/debconf/config.dat is locked by another process: Resource temporarily unavailable  
 - sudo fuser -v /var/cache/debconf/config.dat  
 - sudo kill PID 
