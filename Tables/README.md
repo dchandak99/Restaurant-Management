@@ -1,5 +1,7 @@
 # SQL Details  
 
+This directory has base data for our project.  
+
 ## Creation  
 - Make a Database called *restaurant* with details in the [database.js](../code/database.js) file
 - Run [tables.sql](tables.sql) to create the relations
