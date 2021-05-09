@@ -12,7 +12,7 @@ The project was spread out over several deliverables which can be found here:
 
 ## Final Report and Presentation  
 
-- [Project Report](https://docs.google.com/document/d/1FLYA2AX9k0VeQ2Yb5U007p73Je3Oslca3jQmoCT-9MU/edit?ts=6093de87#)
+- [Project Report](https://docs.google.com/document/d/1FLYA2AX9k0VeQ2Yb5U007p73Je3Oslca3jQmoCT-9MU/edit?usp=sharing)
 - [Presentation](https://docs.google.com/presentation/d/1OmmtPuc1QhljApG6R6h4JzRuNLK8QPBWMgNGr4RCr-o/edit?usp=sharing)
 
 ## Code and Data  
