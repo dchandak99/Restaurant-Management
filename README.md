@@ -20,5 +20,5 @@ The project was spread out over several deliverables which can be found here:
 - [code](code) is in the code directory and contains the full implementation.
 
 ## ER Diagram  
-- ER Diagram can be found [here](I1.jpeg)
+- ER Diagram can be found [here](I1.jpeg).
 
