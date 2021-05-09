@@ -1,4 +1,4 @@
-## How to Run  
+## How to Run the Code  
 
 ### Prerequisites:  
 - sudo npm install -g node-modules  
@@ -28,5 +28,9 @@ STARTING POSTGRES
 - CHANGE PASSWORD:  \password  
 - CREATE database restaurant;  
  
- ### App Link:  
+### App Link:  
 - The server will be live at: http://localhost:3000/  
+
+### Implementation Details:  
+- We have used the MVC architecture since it simplifies the system by separating into models (for querying the DB), controllers (middleware) and views (frontend).
+- 
