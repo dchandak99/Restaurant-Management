@@ -23,7 +23,7 @@ Run node app.js on the terminal
 
 ## Implementation Details:  
 - We have used the MVC architecture since it simplifies the system by separating into models (for querying the DB), controllers (middleware) and views (frontend).
-- 
+- Rest can be found in the ppt and the report.  
 
 ## Error Handling:
 In case you get an error:  DbDriver "config": /var/cache/debconf/config.dat is locked by another process: Resource temporarily unavailable  
