@@ -7,8 +7,8 @@ The project was spread out over several deliverables which can be found here:
 
 - [Deliverable 1](https://docs.google.com/document/d/1FnyioBfU3OCG5oa1TRMePYhNZkhZcvEbpPk0jPS9zxA/edit?usp=sharing) - Scope Document
 - [Deliverable 2](https://docs.google.com/document/d/14BrTwc-z4wj9T7tjKwmR-RHYfHrgrorMcejndkvhWLM/edit) - Analysis, Requirements, ER Model, Use Cases, Technology Choices
-- [Deliverable 3] - https://docs.google.com/document/d/1MKbRuC2MHaueAgwyGKugyBJeGGghK4Oh-jv-UHzJoJo/edit - Data Model, Generation, Screen Designs, Transactions
-- [Deliverable 4] - https://docs.google.com/document/d/1VO4FULHOvVtQ_lfVXpOZRXIs28vhP0TCUWWLy2kc-eM/edit
+- [Deliverable 3](https://docs.google.com/document/d/1MKbRuC2MHaueAgwyGKugyBJeGGghK4Oh-jv-UHzJoJo/edit) - Data Model, Generation, Screen Designs, Transactions
+- [Deliverable 4](https://docs.google.com/document/d/1VO4FULHOvVtQ_lfVXpOZRXIs28vhP0TCUWWLy2kc-eM/edit?usp=sharing) - Detailed Test Plan
 
 ## Final Report and Presentation  
 
