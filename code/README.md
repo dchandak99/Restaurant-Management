@@ -1,6 +1,6 @@
 ## How to Run  
 
-Prerequisites:  
+### Prerequisites:  
 - sudo npm install -g node-modules  
 - npm install express  
 - npm install pg  
@@ -27,5 +27,6 @@ STARTING POSTGRES
 - psql  
 - CHANGE PASSWORD:  \password  
 - CREATE database restaurant;  
-  
- The server will be live at: http://localhost:3000/  
+ 
+ ### App Link:  
+- The server will be live at: http://localhost:3000/  
