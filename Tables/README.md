@@ -23,3 +23,11 @@ Run the other sql files to insert tuples in the following order: (order is such 
 - [tracks.sql](tracks.sql)
 - [delivers.sql](delivers.sql)
 - [pay_by.sql](pay_by.sql)
+
+## Running on Postgres  
+Either of the 2 below options: 
+- Use Query Editor on pgAdmin4 interface
+- Execute following commands on terminal:
+- - 
+  -
+  -
