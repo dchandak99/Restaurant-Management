@@ -1,4 +1,4 @@
-# CS387_Project
+# Restaurant Management System  
 
 Deliverable 1 - https://docs.google.com/document/d/1FnyioBfU3OCG5oa1TRMePYhNZkhZcvEbpPk0jPS9zxA/edit
 
