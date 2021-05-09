@@ -6,7 +6,7 @@ This directory has base data for our project.
 - Make a Database called *restaurant* with details in the [database.js](../code/database.js) file
 - Run [tables.sql](tables.sql) to create the relations
 - To generate the dataset:  
-Run: python3 insertdata.py (should be in the same folder as the .txt files)
+Run: python3 [insertdata.py](insertdata.py) (should be in the same folder as the .txt files)
   
 ## Insertion  
 Run the other sql files to insert tuples in the following order: (order is such that all foreign key violations are avoided)  
