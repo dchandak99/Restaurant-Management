@@ -19,3 +19,6 @@ The project was spread out over several deliverables which can be found here:
 - Data can be found in the [Tables](Tables) directory.
 - [code](code) is in the code directory and contains the full implementation.
 
+## ER Diagram  
+- ER Diagram can be found [here](l1.jpeg)
+
