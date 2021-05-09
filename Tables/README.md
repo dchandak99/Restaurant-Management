@@ -28,6 +28,7 @@ Run the other sql files to insert tuples in the following order: (order is such 
 Either of the 2 below options: 
 - Use Query Editor on pgAdmin4 interface
 - Execute following commands on terminal:
-- - 
-  -
-  -
+  - sudo -i -u postgres
+  - psql inside new shell spawned
+  - \c restaurant
+  - \i path_tp_Sql_file
