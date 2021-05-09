@@ -14,4 +14,5 @@ Final Project Report - https://docs.google.com/document/d/1FLYA2AX9k0VeQ2Yb5U007
 
 Final Presentation Link - https://docs.google.com/presentation/d/1OmmtPuc1QhljApG6R6h4JzRuNLK8QPBWMgNGr4RCr-o/edit#slide=id.p
 
-To generate the dataset, Run: python3 insertdata.py (should be in the same folder as the .txt files)
+To generate the dataset:  
+Run: python3 insertdata.py (should be in the same folder as the .txt files)
