@@ -33,4 +33,4 @@ Either of the 2 below options:
   - sudo -i -u postgres
   - psql inside new shell spawned
   - \c restaurant
-  - \i path_tp_Sql_file
+  - \i path_to_Sql_file
