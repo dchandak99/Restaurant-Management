@@ -30,4 +30,4 @@ In case you get an error:  DbDriver "config": /var/cache/debconf/config.dat is l
 - sudo fuser -v /var/cache/debconf/config.dat  
 - sudo kill PID 
 
-All other errors will be displayed on the terminal since we have used .catch(err->console.log(err))
+All other errors will be displayed on the terminal since we have used *.catch(err->console.log(err))*
