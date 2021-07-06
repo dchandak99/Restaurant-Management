@@ -1,6 +1,6 @@
 # Restaurant Management System  
 
-This project was done as part of the Database Systems Lab (CS387) in our third year. 
+This project was done as part of the Database Systems Lab (CS387) in our third year of our undergrad. 
 
 ## Highlights
 - Created a GUI website application for a Restaurant Management System with cookie based login authentication
